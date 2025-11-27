@@ -1,0 +1,8 @@
+name: tc-env
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+    - turicreate==6.4.1
